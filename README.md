@@ -24,8 +24,7 @@
 Для начала работы требуется установить все зависимости:
 
 ```golang
-go get github.com/gofiber/fiber/v2
-go get github.com/jackc/pgx/v5
+go mod download
 ```
 
 Затем запустить сам API:
